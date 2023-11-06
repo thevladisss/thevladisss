@@ -2,7 +2,7 @@
 
 
 
-My name is Vlad. I am Full Stack Software Engineer mainly majoring in Web Development
+My name is Vlad. I am Front End Web Engineer mainly majoring in Web Development
 
 - ✅ I specialize in Typescript, PHP and majorly operate on Vue.js and Laravel
 - 💬 You can always reach out to me via: <a href="mailto:vladyslavnosal@gmail.com">vladyslavnosal@gmail.com</a>
