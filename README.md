@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Vladyslav Nosal, <u>but I go by Vlad!</u> 
+### I am Vladyslav Nosal, <mark>but I go by Vlad!</mark>
 
 #### Keen on building software and espeically AI powered software. 
 
